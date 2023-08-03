@@ -1,0 +1,73 @@
+.con{
+    background-color: #f0f0f0;
+    /* background-color: #7d7171; */
+    width: 27rem;
+    margin: 5rem auto;
+    height: 30rem;
+    padding: 1rem;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+   
+    }
+
+.bot{
+      background-color: rgb(21, 95, 169);
+      width: 29rem;
+      height: 3rem;
+      border-top-right-radius: 15px;
+      border-top-left-radius: 15px;
+      color: white;
+      text-align: center;
+      font-size: 2rem;
+      position: absolute;
+      bottom: 31rem;
+      right: 0rem;
+    }
+
+
+input{
+    width: 27rem;
+    height: 3rem;
+    border-radius: 13px;
+    border: none;
+    padding: 0 1rem;
+    font-size: 1rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 29.1rem;
+    right: 0rem;
+
+}
+
+button {
+    background-color: #1560a9;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 34rem;
+   left: 10rem;
+  }
+
+
+  .message-container {
+    max-height: 450px;
+    overflow-y: auto; 
+  }
+  
+
+  .message-container::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* .message-container::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+  } */
+
