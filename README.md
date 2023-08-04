@@ -45,4 +45,4 @@ With Derma Bot's instant support, users receive responses to their queries witho
 
 # Website Link
  
- [Derma Bot](https://open-ai-chat-4rwob4q87-fouziiah.vercel.app/)
+ [Derma Bot](https://open-ai-chat-bot-three.vercel.app/)
