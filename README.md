@@ -1,6 +1,7 @@
 # Derma Bot - Skin Health Chatbot
 
-<img src="../hm.png">
+<img width="1373" alt="Screen Shot 2023-08-03 at 11 34 37 PM" src="https://github.com/fouziiah/OpenAI_ChatBot/assets/134312119/d0d637bc-3a86-41f9-9349-93413204edce">
+
 
 
 Derma Bot is a chatbot designed to answer questions related to skin health. It leverages natural language processing (NLP) to provide informative and helpful responses. With 24/7 availability and instant support, Derma Bot aims to be a reliable and accessible resource for users seeking information about their skin concerns.
