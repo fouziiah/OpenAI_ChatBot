@@ -32,6 +32,7 @@ body{
   height: 25rem;
   padding-right: 13rem;
   margin-top: 4rem;
+  /* border-radius: 20px; */
 
 }
 
@@ -42,6 +43,12 @@ body{
   text-align: justify;
   padding-left: 8rem;
   line-height: 1.2em;
+}
+
+.woman-img{
+  position: absolute;
+  left: 52rem;
+  bottom: -11px;
 }
 
 /* //////////////////////////////////navbar styling ////////////////////////////////////////////// */
@@ -135,7 +142,7 @@ body{
 }
 .card-one, .card-two, .card-three{
   /* padding: 3.1em 1.25em; */
-  box-shadow: 0 0 0.5em rgba(55, 52, 52, 0.917);
+  box-shadow: 0 0 0.5em #65d880;
   background-repeat: no-repeat;
   height: 21.7rem;
   width: 27rem;
@@ -159,9 +166,11 @@ body{
  font-size: 3.75em;
  font-weight: 600;
 text-align:  center;
- 
 
+}
 
+.ft-title h1:hover{
+  /* color:; */
 }
 
 .ft-one p{
@@ -212,24 +221,44 @@ text-align:  center;
   display: inline-block;
   background-color: #65d880;
   color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 4px;
+  padding: 0.75rem 2.2rem;
+  border-radius: 20px;
   text-decoration: none;
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.2s;
+  position: absolute;
+  top: 38rem;
 }
 
 .home-btn:hover {
-  background-color: #88e898;
+  background-color: #65d880;
 }
 
 .hm-t{
   max-width: 24rem;
   position: absolute;
-  top: 17rem;
+  top: 14rem;
+  left: 10rem;
   
 }
 .title{
   font-size: 4.1rem;
 }
+.hm-t p{
+  font-size: 1.3rem;
+  margin-top: 0px;
+  position: absolute;
+}
+
+.face-img{
+  height: 4rem;
+  width: 5rem;
+  position: absolute;
+  bottom: 4px;
+  left: 4px;
+  /* top: 1rem; */
+  /* bottom: -0.1rem; */
+  color: black;
+}
+
