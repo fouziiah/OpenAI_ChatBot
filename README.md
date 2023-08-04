@@ -35,9 +35,9 @@ With Derma Bot's instant support, users receive responses to their queries witho
 <img src="https://img.shields.io/badge/framework-React.js-blue?style=flat-square)">
 
 ## Resources
-- [Coolors - Green Palettes](https://coolors.co/palettes/latest/green): 
-
 - [OpenAI](https://openai.com/)
+  
+- [Coolors - Green Palettes](https://coolors.co/palettes/latest/green): 
 
 - [Figma - Recently Viewed Files](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1226739537922426656)
 
