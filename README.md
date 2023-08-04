@@ -41,8 +41,8 @@ With Derma Bot's instant support, users receive responses to their queries witho
 
 - [Figma - Recently Viewed Files](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1226739537922426656)
 
-- [Flaticon - Natural Language Icons](https://www.flaticon.com/search?word=natural%20language): Flaticon offers a collection of icons, including those related to natural language. These icons could have been used in the project's design.
+- [Flaticon - Natural Language Icons](https://www.flaticon.com/search?word=natural%20language)
 
 # Website Link
  
- [Derma Bot](https://open-ai-chat-4rwob4q87-fouziiah.vercel.app/
+ [Derma Bot](https://open-ai-chat-4rwob4q87-fouziiah.vercel.app/)
